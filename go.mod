@@ -1,3 +1,3 @@
-module github.com/Ja7ad/golang-pipeline
+module github.com/jpcyrenne/golang-pipeline-test
 
 go 1.17
